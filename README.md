@@ -1,5 +1,4 @@
-# ARTIFICIAL-INTELLIGENCE-React-App-Alan-AI-JavaScript
-Conversational Voice Controlled React News Application using Alan AI
+
 # Voice Controlled React News Application - Alan AI Voice Assistant
 
 ### [Live Site](https://alan-news-app.netlify.app/)
